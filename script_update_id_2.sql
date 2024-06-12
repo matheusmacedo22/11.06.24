@@ -1,0 +1,1 @@
+UPDATE `db_confrades`.`tbl_atletas` SET `posicao` = 'Centroavante', `peso` = '82' WHERE (`id` = '2');

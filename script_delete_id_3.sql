@@ -1,0 +1,1 @@
+DELETE FROM `db_confrades`.`tbl_atletas` WHERE (`id` = '3');

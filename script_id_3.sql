@@ -1,0 +1,1 @@
+INSERT INTO `db_confrades`.`tbl_atletas` (`nome`, `sobrenome`, `idade`, `apelido`, `posicao`, `altura`, `peso`) VALUES ('Alexandre', 'Saopaoli', '28', 'Jamanta', 'Zagueiro', '1,88', '100');
